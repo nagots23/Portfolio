@@ -1,6 +1,6 @@
 # Portfolio
 ### Hi there 👋
-I'm Gastón Díaz, a Geographic Information Systems Developer and Data Anlyst
+I'm Gastón Díaz, a GIS Anlyst
 
 <br>
 
