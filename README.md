@@ -1,6 +1,9 @@
-# Portfolio
-### Hi there 👋
+# GIS Analyst
+### Education
+Universidad Nacional de Luján
 I'm Gastón Díaz, a GIS Anlyst
+
+###Projects
 
 <br>
 
