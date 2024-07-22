@@ -1,10 +1,10 @@
 # GIS Analyst
 ### Education
 Universidad Nacional de Luján
+<br>
+I'm Gastón Díaz, a GIS Analyst
 
-I'm Gastón Díaz, a GIS Anlyst
-
-###Projects
+### Projects
 
 <br>
 
