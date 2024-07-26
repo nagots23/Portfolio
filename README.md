@@ -1,6 +1,6 @@
 # GIS Analyst
 ### Education
-Universidad Nacional de Luján
+Lic. en Información Ambiental. Universidad Nacional de Luján
 
 ### Projects
 
