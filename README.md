@@ -1,4 +1,4 @@
-# GIS Analyst
+# GIS/Data Analyst
 ### Education
 Lic. en Información Ambiental. Universidad Nacional de Luján
 
